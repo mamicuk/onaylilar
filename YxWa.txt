@@ -1,0 +1,9 @@
+{
+ "version":"8.60",
+ "status":"theme",
+ "title":"Atualização disponível",
+ "description":"Alterações\n• Validade da base extendida\n• Problemas com a loja de temas corrigidos\n• Melhorias na interface e correções de bugs\n\nPor favor, não ignore essa atualização ou seu WhatsApp pode acabar ficando obsoleto.",
+ "download":"https://t.me/yxmods",
+ "users_premium":"C58A219 C42A783 C11A792 C133A773 C913A685 C119A786 C27A529 C72A323 C108A382 C129A571 C107A107 C42A479 C175A62 C93A423 C106A731 C65A552 C27A865 C1A744 C127A29 C263A97 C112A667 C116A945 C57A19 C109A534 C394A308 C64A163 C91A908 C63A67 C70A81 C41A36 C103A764 C267A625 C103A921 C190A850 C5A835 C79A742 C47A608 C42A348 C21A503 C84A737 C135A602 C102A861 C78A156 C34A634 C81A977 C105A513 C6A224 C102A35",
+ "force":"true"
+}
