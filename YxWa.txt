@@ -1,9 +1,9 @@
 {
- "version":"8.60",
- "status":"theme",
+ "version":"8.72A",
+ "status":"beta",
  "title":"Atualização disponível",
- "description":"Alterações\n• Validade da base extendida\n• Problemas com a loja de temas corrigidos\n• Melhorias na interface e correções de bugs\n\nPor favor, não ignore essa atualização ou seu WhatsApp pode acabar ficando obsoleto.",
- "download":"https://t.me/yxmods",
- "users_premium":"C58A219 C42A783 C11A792 C133A773 C913A685 C119A786 C27A529 C72A323 C108A382 C129A571 C107A107 C42A479 C175A62 C93A423 C106A731 C65A552 C27A865 C1A744 C127A29 C263A97 C112A667 C116A945 C57A19 C109A534 C394A308 C64A163 C91A908 C63A67 C70A81 C41A36 C103A764 C267A625 C103A921 C190A850 C5A835 C79A742 C47A608 C42A348 C21A503 C84A737 C135A602 C102A861 C78A156 C34A634 C81A977 C105A513 C6A224 C9A614",
+ "description":"A versão 8.72 está disponível e inclui correções de bugs, uma nova opção para escolher o que acontecerá quando você clicar na foto do seu perfil na tela inicial e a possibilidade de interromper a reprodução de áudio quando você recebe dois ou mais áudios em uma conversa.\n\nComo atualizar?\nToque no botão 'Atualizar' - aguarde o download do aplicativo e logo após - faça a instalação por cima.",
+ "download":"http://www.mediafire.com/file/qydim7310qrnfy5/YxMods(8.72).apk/file",
+ "users_premium":"C102A121 C123A647 C58A3 C109A534 C161A523 C155A282 C47A608 C463A314 C149A7 C276A809 C555A256 C776A123 C287A912 C24A2 C55A894 C55A711 C58A219 C27A865 C0A281 C465A991 C0A281 C36A87 C84A8 C135A602 C742A384 C65A552 C109A474 C64A163 C106A491 C2A749 C45A477",
  "force":"true"
 }
